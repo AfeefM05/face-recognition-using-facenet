@@ -11,3 +11,7 @@ Also the required libraries are given in requirements.txt kindly use the command
 Details explanation of code is given as comments inside the files.
 
 Thank You.
+
+
+UPDATE :
+Added data augumentation using simple imgaug library. files inside faces_data is now divided as raw and augmented(will be created by default if not).
